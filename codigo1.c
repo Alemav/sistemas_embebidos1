@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 int main(){
-    a=2;
-    b=3;
-    c=a+b;
-    return c;
+   int a,b,c;
+   a=2;
+   b=3;
+   c=a+b;
+   printf("%d \n", c);
+return 0 ;
 }
